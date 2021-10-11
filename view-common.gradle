@@ -1,0 +1,7 @@
+apply from: rootProject.file('common.gradle')
+
+dependencies {
+    implementation 'androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03'
+    kapt 'androidx.hilt:hilt-compiler:1.0.0'
+    implementation 'androidx.fragment:fragment-ktx:1.4.0-alpha10'
+}
