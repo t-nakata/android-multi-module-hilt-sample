@@ -14,7 +14,8 @@
             <option value="$PROJECT_DIR$/data" />
             <option value="$PROJECT_DIR$/model" />
             <option value="$PROJECT_DIR$/router" />
-            <option value="$PROJECT_DIR$/ui" />
+            <option value="$PROJECT_DIR$/ui_main" />
+            <option value="$PROJECT_DIR$/ui_sub" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
