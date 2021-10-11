@@ -52,3 +52,7 @@ dependencies {
 }
 
 apply from: rootProject.file('view-common.gradle')
+
+hilt {
+    enableExperimentalClasspathAggregation = true
+}
